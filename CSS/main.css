@@ -1,0 +1,29 @@
+body {
+    background-color: #795804;
+}
+nav {
+    background-color: #829438!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff!important;
+}
+.navbar-light .navbar-brand {
+    color: #ffffff;
+}
+.boys {
+    width: 50%;
+    height: auto;
+    float: left;
+}
+h1, h2, h3, h4, h5, p {
+    color: #ffffff;
+    font: hitchcut;
+}
+.aboutText {
+    width: 50%;
+    float: right;
+    padding: 2%;
+}
+.bottom {
+    padding-top: 0;
+}
