@@ -30,3 +30,7 @@ h1, h2, h3, h4, h5, p {
 li.nav-item {
     list-style: none;
 }
+img {
+    height: auto;
+    width: 100%;
+}
